@@ -14,8 +14,8 @@ $AuthPass = 'akahiko';
 
 //-----------------------------------------------------------------------------------------//
 //Telegram Bot Informations
-$bot_name = "Akahiko Bot"; //change this to any bot name you want.
-$bot_token = "6541664159:AAFwAHgw_YXLuh4ltGVwM2XPy8fFiALcbbc"; //change this to your own bot Token.
+$bot_name = "fuckoff Bot"; //change this to any bot name you want.
+$bot_token = "8235526344:AAEW3emTyFkkXC_U_c8yilSbRwf81YpKZ0o"; //change this to your own bot Token.
 $token_url = 'https://api.telegram.org/bot' . $bot_token;
 
 
@@ -85,3 +85,4 @@ $red_link[] = "https://www.youtube.com/embed/MBdVXkSdhwU?start=1&autoplay=1";	//
 
 
 //-----------------------------------------------------------------------------------------//
+
